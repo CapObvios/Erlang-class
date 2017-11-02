@@ -13,7 +13,7 @@ c(calc).
 calc:start().
 
 ## Files
-IMPORTANT: In the loop-designed systems it's essential to export the loop function (although not necessary outside). 
+IMPORTANT: In the loop-designed modules it's essential to export the loop function (although not necessary outside). 
 Otherwise it's not going to compile
 
 ### my_db.erl
