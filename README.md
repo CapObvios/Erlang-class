@@ -7,7 +7,7 @@ In order to compile and use them:
 1. Install Erlang.
 2. Navigate to the files containing folder.
 3. Type "c(ModuleName)."
-4. Use "ModuleName:functionName()" to use functions.
+4. Use "\[MODULE_NAME\]:\[FUNCTION_NAME\]()" to use functions.
 For example:  
 c(calc).  
 calc:start().
